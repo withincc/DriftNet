@@ -54,6 +54,7 @@ pip install matplotlib
 - **Data missing errors**: Check if the `Data` directory contains complete forcing data, or re-download to supplement the dataset.
 - **CUDA version mismatch**: Verify local CUDA version is 12.1, or replace the PyTorch installation command to match your CUDA version.
 - **No output in result directory**: Check output path configuration in `test.py`, or ensure write permissions for the project directory.
+- **The /Data/omsData.nc file is missing in the project. Please contact the author to obtain it
 
 
 
